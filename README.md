@@ -65,6 +65,7 @@ Above figure is a Visualization of Areas where the restaurants are located.
 
 <h2>Poster and Technical Paper</h2>
 Here is the Poster created for this project:
+
 ![Image 13](https://github.com/DivyaSamragniNadakuditi/Restaurant-Visitor-Forecasting/blob/master/Poster.jpg)
 
 The technical paper is present at 
